@@ -1,0 +1,46 @@
+body {
+  font-family: 'Rubik', sans-serif;
+  width: 90%;
+  margin-left: 5%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  background-color: rgb(142, 142, 144);
+
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Rubik Mono One', sans-serif;
+}
+h2{
+  color: white;
+}
+
+.small {
+  font-weight: 300;
+  font-style: italic;
+}
+.card-columns
+{
+  column-count: 5;
+}
+
+.container
+{
+  margin:0%;
+  max-width: 100%;
+  padding-left: 2%;
+}
+.navbar
+{
+  background-color: rgb(205, 27, 27)!important;
+  border-radius: 10px 10px 0px 0px;
+}
+.jumbotron
+{
+  border-radius: 0px 0px 10px 10px;
+}
